@@ -69,7 +69,7 @@
               <!--<li><a href="#section5" class="page-sroll">Section 5</a></li>-->
               <li><a href="#section6" class="page-sroll">Department</a></li>
               <li><a href="#section7" class="page-sroll">Contact Us</a></li>
-              <li><a href="..//finalyearproject" target="#">Paymentapp</a></li>
+              <li><a href="https://payment-grp20.herokuapp.com/" target="#">Paymentapp</a></li>
               <li><a href="https://grp20.herokuapp.com" target="#">Group20</a></li>
             </ul>
           </div>
